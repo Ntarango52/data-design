@@ -25,7 +25,6 @@
 		<li>She sees that the show is about first generation Mexican Americans struggling to keep their buisness</li>
 		<li>She watches the show because she can relate to it</li>
 		<li>Scarlett pauses the show and logs out of her profile</li>
-		<li></li>
 	</ul>
 </div>
 </body>

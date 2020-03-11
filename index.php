@@ -16,6 +16,9 @@
 <h2><a href="./epic/use-case-interaction-flow.php">use-case-interaction-flow.php</a></h2>
 </body>
 <body>
-<h2>
+<h2><a href="./conceptual-model.html">conceptual-model.html</a></h2>
+</body>
+<body>
+<h2><a href="entity-relationship-diagram.html">entity-relationship-diagram.html</a></h2>
 </body>
 </html>
