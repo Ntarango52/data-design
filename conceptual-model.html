@@ -7,4 +7,46 @@
 <body>
 <h1>Conceptual Model</h1>
 </body>
+<body>
+<h2>User</h2>
+</body>
+<div>
+	<ul>
+		<li>UserId (Primary Key)</li>
+		<li>Gender</li>
+		<li>Name</li>
+		<li>Email</li>
+		<li>Debit/Credit Card</li>
+	</ul>
+</div>
+<body>
+<h2>Profile</h2>
+</body>
+<div>
+	<ul>
+		<li>ProfileId (Primary Key)</li>
+		<li>AccountId (Foreign Key)</li>
+		<li>ProfilePreferences</li>
+		<li>ProfileDate</li>
+	</ul>
+</div>
+<body>
+<h2>Show</h2>
+</body>
+<div>
+	<ul>
+		<li>ShowId (Foreign Key)</li>
+		<li>ShowContent</li>
+		<li>ShowLanguage</li>
+	</ul>
+</div>
+<body>
+<h2>Relationship</h2>
+</body>
+<div>
+	<ul>
+		<li>One user can have one profile (1 to 1)</li>
+		<li>One profile can have many shows and movies (1 to many)</li>
+	</ul>
+</div>
 </html>
