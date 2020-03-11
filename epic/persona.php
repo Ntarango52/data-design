@@ -6,29 +6,43 @@
 </head>
 <body>
 <h1 class="center"> Scarlett Reid</h1>
-	<img id="image" src="image.jpg" alt="Picture of Scarlett Reid" class="center"/>
+<img src="9715-Danna-Paola-3.jpg" alt="picture"/>
 
 <div>
 	<h2>Demographic</h2>
 	<ul>
-		<li>25 years old</li>
-		<li>Single</li>
-		<li>First generation Mexican American</li>
-		<li>College graduate</li>
-		<li>Travels a lot for work</li>
-		<li>FBI profilier</li>
-		<li>Casual user</li>
+		<li>Age: 25 years old</li>
+		<li>Gender: Female</li>
+		<li>Ethnicity: First generation Mexican American</li>
+		<li>Occupation: FBI profilier</li>
 	</ul>
 </div>
 <div>
-	<h2>Key Characteristics</h2>
+	<h2>Characteristics</h2>
 	<ul>
 		<li>Right handed</li>
 		<li>Knows English, Spanish, and French</li>
 		<li>Likes to read</li>
-		<li>Loves to travel</li>
+		<li>Travels a lot for work</li>
 		<li>Outgoing</li>
 		<li>Confident leader</li>
+	</ul>
+</div>
+<div>
+	<h2>Technology</h2>
+	<ul>
+		<li>Phone: Samsung Galaxy S9</li>
+		<li>Laptop: Windows 10</li>
+	</ul>
+</div>
+<div>
+	<h2>Tech Experience</h2>
+	<ul>
+		<li>Knows technology pretty well</li>
+		<li>Uses her phone to watch Netflix</li>
+		<li>Uses her laptop to watch Netflix</li>
+		<li>Uses a laptop at work</li>
+		<li>Uses a phone at work</li>
 	</ul>
 </div>
 <div>
@@ -47,16 +61,6 @@
 		<li>There are different genres of shows</li>
 		<li>There are different genres of movies</li>
 		<li>Many profiles can be created under one account</li>
-	</ul>
-</div>
-<div>
-	<h2>Tech Experience</h2>
-	<ul>
-		<li>Knows technology pretty well</li>
-		<li>Uses her phone to watch Netflix</li>
-		<li>Uses her laptop to watch Netflix</li>
-		<li>Uses a laptop at work</li>
-		<li>Uses a phone at work</li>
 	</ul>
 </div>
 </body>
