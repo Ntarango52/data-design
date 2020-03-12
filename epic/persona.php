@@ -5,7 +5,7 @@
 	<title>persona.php</title>
 </head>
 <body>
-<h1 class="center"> Scarlett Reid</h1>
+<h1 class="center"> Melyssa Reid</h1>
 <img src="9715-Danna-Paola-3.jpg" alt="picture"/>
 
 <div>
@@ -14,7 +14,7 @@
 		<li>Age: 25 years old</li>
 		<li>Gender: Female</li>
 		<li>Ethnicity: First generation Mexican American</li>
-		<li>Occupation: FBI profilier</li>
+		<li>Occupation: Business owner of a Bakery</li>
 	</ul>
 </div>
 <div>
@@ -23,7 +23,7 @@
 		<li>Right handed</li>
 		<li>Knows English, Spanish, and French</li>
 		<li>Likes to read</li>
-		<li>Travels a lot for work</li>
+		<li>Loves to bake</li>
 		<li>Outgoing</li>
 		<li>Confident leader</li>
 	</ul>

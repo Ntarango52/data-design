@@ -12,11 +12,10 @@
 </body>
 <div>
 	<ul>
-		<li>UserId (Primary Key)</li>
-		<li>Gender</li>
-		<li>Name</li>
-		<li>Email</li>
-		<li>Debit/Credit Card</li>
+		<li>userId (Primary Key)</li>
+		<li>userActivationToken</li>
+		<li>userName</li>
+		<li>userEmail</li>
 	</ul>
 </div>
 <body>
@@ -24,10 +23,10 @@
 </body>
 <div>
 	<ul>
-		<li>ProfileId (Primary Key)</li>
-		<li>AccountId (Foreign Key)</li>
-		<li>ProfilePreferences</li>
-		<li>ProfileDate</li>
+		<li>profileId (Primary Key)</li>
+		<li>profileUserId (Foreign Key)</li>
+		<li>profilePreferences</li>
+		<li>profileDate</li>
 	</ul>
 </div>
 <body>
@@ -35,9 +34,10 @@
 </body>
 <div>
 	<ul>
-		<li>ShowId (Foreign Key)</li>
-		<li>ShowContent</li>
-		<li>ShowLanguage</li>
+		<li>showUserId (Foreign Key)</li>
+		<li>showProfileId (Foreign Key)</li>
+		<li>showContent</li>
+		<li>showLanguage</li>
 	</ul>
 </div>
 <body>
