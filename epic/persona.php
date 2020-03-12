@@ -32,7 +32,7 @@
 	<h2>Technology</h2>
 	<ul>
 		<li>Phone: Samsung Galaxy S9</li>
-		<li>Laptop: Windows 10</li>
+		<li>Laptop: Microsoft Surface Book 2</li>
 	</ul>
 </div>
 <div>
