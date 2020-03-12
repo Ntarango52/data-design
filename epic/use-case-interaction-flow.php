@@ -8,23 +8,25 @@
 <h1>Use Case:</h1>
 </body>
 <body>
-<p>Usage Preconditions: Must have payed for a membership and have a log in</p>
+<p>Usage Preconditions: Feels like Netflix doesn't have a diverse database of shows and movies</p>
 </body>
 <body>
-<p>Usage Postconditions: Netflix saves the episodes she watched so next time she can pick up where she left off</p>
+<p>Usage Postconditions: Melyssa sees that Netflix is trying to have more diversity in their shows and movies</p>
 </body>
 <body>
 <h2>Interaction Flow</h2>
 <div>
 	<ul>
-		<li>Gets on a plane that will take 4 hours to get to its destination</li>
-		<li>Gets her laptop and earphones to watch something on Netflix</li>
-		<li>Melyssa logs onto Netflix</li>
-		<li>She chooses her profile</li>
-		<li>She sees that they added a new show on Netflix</li>
-		<li>She sees that the show is about first generation Mexican Americans struggling to keep their buisness</li>
-		<li>She watches the show because she can relate to it</li>
-		<li>Melyssa pauses the show and logs out of her profile</li>
+		<li>Melyssa searches Netflix and the browser brings it up on her phone</li>
+		<li>Netflix remembers her email address</li>
+		<li>Melyssa types in her password and Netflix logs her on</li>
+		<li>Netflix brings up the profiles on her account</li>
+		<li>She clicks her profile and Netflix brings up her watch history</li>
+		<li>Netflix also recommends shows and movies based off of her history</li>
+		<li>Melyssa clicks on a show to watch and Netflix streams it</li>
+		<li>Melyssa clicks out of the show and Netflix saves where she left off</li>
+		<li>Melyssa presses the log out button and Netflix logs her out</li>
+		<li>She gets redirected back to the login page</li>
 	</ul>
 </div>
 </body>
