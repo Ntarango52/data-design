@@ -1,5 +1,9 @@
 ALTER DATABASE ntarango3 CHARACTER SET utf8 COLLATE utf8_unicode_ci;
 
+DROP TABLE IF EXISTS media;
+DROP TABLE IF EXISTS profile;
+DROP TABLE IF EXISTS user;
+
 create table user(
 	userId Binary(16) NOT NULL,
 	userActivationToken CHAR(32),
